@@ -1,7 +1,5 @@
 # school-portfolio-public
-A description of all my schoolwork from August 2020 to May 2024, for anyone interested to request samples.
-
-If you are interested in any of this work, please email jonathandhouge@gmail.com about who you are, what you're interested in and why, and anything else.
+If you are interested in any of my academic work, please email jonathandhouge@gmail.com with the header 'School Portfolio Interest' and include who you are, what you're interested in and why, and anything else in the body.
 
 Classes included:
 
